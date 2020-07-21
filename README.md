@@ -16,7 +16,7 @@ INTEREST(fieldnum*, acnum*, descrip)
  
 ## Write SQL Queries:
 
-Write ONE SQL query for each of questions 3.1--3.10, and each component of an SQL statement must be on a separate line. Your query should not produce duplicates in output but use DISTINCT only if necessary. Include any explanation as comments starting with “--” to make the whole SQL script file (.sql) executable (in SQL Developer and other SQL client programs).
+Write ONE SQL query for each of questions 1--10, and each component of an SQL statement must be on a separate line. Your query should not produce duplicates in output but use DISTINCT only if necessary. Include any explanation as comments starting with “--” to make the whole SQL script file (.sql) executable (in SQL Developer and other SQL client programs).
  
 1. List the deptname of all departments in the database.
 
